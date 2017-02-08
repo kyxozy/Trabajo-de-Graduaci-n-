@@ -1,0 +1,25 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+d%
+}{%
+d%
+}{%
+{\protect \APACyear {asd}}%
+}]{%
+hi}
+\APACinsertmetastar {%
+hi}%
+\begin{APACrefauthors}%
+d.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{asd}.
+\newblock
+\APACrefbtitle {hola} {hola}\ (asd, \BED{}).
+\newblock
+\APACaddressPublisher{}{basd}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
